@@ -1,6 +1,6 @@
 # Random-password-gen-js-css
 
-A simple clock password generator.
+A simple password generator.
 
 <img src="images/project.png" width="800">
 
