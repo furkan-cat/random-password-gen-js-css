@@ -2,7 +2,7 @@
 
 A simple clock password generator.
 
-<img src="images/project.png" width="300" height="300">
+<img src="images/project.png" width="800">
 
 #### JavaScript Used
 
