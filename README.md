@@ -2,7 +2,9 @@
 
 A simple password generator.
 
-<img src="images/project.png" width="800">
+[Project-Demo](https://musing-spence-907b52.netlify.app/)
+
+<img src="images/project.png" width="500">
 
 #### JavaScript Used
 
